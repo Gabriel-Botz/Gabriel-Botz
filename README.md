@@ -3,7 +3,13 @@
 </div>
 
 ## Bem-vindo(a) ao perfil do Gabriel Botelho 😁
+<br>
+<!-- <div style = " display-flex " align= "center" , heigh: 80px, width: 80px>  -->
+  
+<img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmlzZ3ZrcW44bjIweWJoZjBzYjU4NjFveHRmcHhrd3pvdm1nOWNleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" />
 
+  </div>
+  <br>
  <div>
    <a href="https://github.com/Gabriel-Botz">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Botz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
