@@ -10,6 +10,8 @@
 
 ###
 
+
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -33,7 +35,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Gabriel-Botz/Gabriel-Botz/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/Gabriel-Botz/Gabriel-Botz/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
