@@ -34,14 +34,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Gabriel-Botz/Gabriel-Botz/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+
 
 ###
 
-<img src="https://raw.githubusercontent.com/Gabriel-Botz/Gabriel-Botz/snake-output/snake.svg" alt="Snake animation" />
+
 
 ###
 
