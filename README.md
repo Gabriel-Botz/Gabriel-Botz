@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Gabriel-Botz.Gabriel-Botz&right_color=aqua"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Gabriel-Botz.Gabriel-Botz&right_color=red"  />
 </div>
 
 ###
