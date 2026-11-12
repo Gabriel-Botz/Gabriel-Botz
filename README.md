@@ -28,8 +28,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
@@ -39,16 +37,18 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Botz&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false&order=1" height="153" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Botz&layout=compact&langs_count=10&theme=radical&locale=pt-br&hide_border=false&order=2" height="153" alt="top languages" />
-  <img src="https://streak-stats.demolab.com?user=Gabriel-Botz&locale=pt-br&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak stats" />
-</div>
-
-###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabriel-Botz&radius=16&theme=redical&area=true" width="95%" alt="activity graph" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Gabriel-Botz&show_icons=true&theme=radical&locale=pt-br"
+    height="165"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gabriel-Botz&layout=compact&langs_count=8&theme=radical"
+    height="165"
+    alt="Top Languages"
+  />
 </div>
 
 ###
